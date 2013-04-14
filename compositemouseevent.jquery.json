@@ -1,0 +1,22 @@
+{
+    "name": "compositemouseevent",
+    "title": "jQuery Composite Mouse Event",
+    "description": "jQuery plugin for composite mouse event manipulation.",
+    "version": "0.0.1",
+    "keywords": [
+        "event"
+    ],
+    "author": {
+        "name": "akinari tsugo",
+        "url": "https://github.com/garafu"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": ""
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.7.1"
+    }
+}
