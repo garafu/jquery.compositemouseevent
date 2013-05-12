@@ -1,8 +1,10 @@
 ﻿/**
-* jQuery pugin : Composite mouse event
+* jQuery pugin : Composite mouse event performer
+*
+* Copyright (c) 2013 akinari tsugo
 *
 * This script released under the MIT license.
-* please see MIT-LICENCE.txt.
+* Please see MIT-LICENCE.txt for deteils.
 */
 (function (window, document, $, undefined) {
     /**
