@@ -1,21 +1,25 @@
 {
     "name": "compositemouseevent",
-    "title": "jQuery Composite Mouse Event",
-    "description": "jQuery plugin for composite mouse event manipulation.",
-    "version": "0.0.1",
+    "title": "Composite Mouse Event Performer",
+    "description": "jQuery plugin for composite mouse event manipulation. This plugin perform mouse event distinguished between "click" event and "double click" event. This is useful in the case that you want to set another feature to "click" and "double click".",
     "keywords": [
         "event"
     ],
+    "version": "1.0.0",
     "author": {
-        "name": "akinari tsugo",
+        "name": "garafu",
         "url": "https://github.com/garafu"
     },
     "licenses": [
         {
             "type": "MIT",
-            "url": ""
+            "url": "https://github.com/garafu/jquery.compositemouseevent/blob/master/MIT-LICENSE.txt"
         }
     ],
+    "bugs": "https://github.com/garafu/jquery.compositemouseevent/issues",
+    "homepage": "https://github.com/garafu/jquery.compositemouseevent",
+    "docs": "https://github.com/garafu/jquery.compositemouseevent/wiki",
+    "download": "https://github.com/garafu/jquery.compositemouseevent/tags",
     "dependencies": {
         "jquery": ">=1.7.1"
     }
