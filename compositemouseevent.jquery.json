@@ -1,7 +1,7 @@
 {
     "name": "compositemouseevent",
     "title": "Composite Mouse Event Performer",
-    "description": "jQuery plugin for composite mouse event manipulation. This plugin perform mouse event distinguished between "click" event and "double click" event. This is useful in the case that you want to set another feature to "click" and "double click".",
+    "description": "jQuery plugin for composite mouse event manipulation. This plugin perform mouse event distinguished between \"click\" event and \"double click\" event. This is useful in the case that you want to set another feature to \"click\" and \"double click\".",
     "keywords": [
         "event"
     ],
